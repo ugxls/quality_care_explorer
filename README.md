@@ -1,1 +1,1 @@
-# quality_care_explorer
+# Quality Care Explorer
