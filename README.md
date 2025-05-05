@@ -89,7 +89,7 @@ To guide report development, mockups were designed using Mokkup AI. These protot
 ![.](assets/images/QCE_Mockups.png)
 
 ### PowerBI 
-The final interactive dashboards were developed using Power BI. Two report pages were created, each highlighting performance metrics for one provider type. Slicers, dynamic rankings, and sort-direction toggles were implemented to enhance user experience. A custom ranking logic was embedded using DAX. Below is a sample ranking expression:
+The final interactive dashboards were developed using Power BI. Two report pages were created, each highlighting performance metrics for one provider type. Slicers, dynamic rankings, and sort-direction toggles (ascending/descending arrow icons) were implemented to enhance user experience. A custom ranking logic was embedded using DAX. Below is a sample ranking expression:
 ```powerbi
 Rank_IRF = 
 RANKX(
