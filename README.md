@@ -113,7 +113,7 @@ The Quality Care Explorer delivers a practical, data-driven resource for evaluat
 ## References
 [CMS.gov Provider Catalog](https://data.cms.gov/provider-data/)
 
-[Stephen | Data - Excel to Power BI Portfolio Project | Full End-to-End Data Project](https://www.youtube.com/watch?v=mm_sN-Elplg&t=8895s)
+[Stephen - Data](https://www.youtube.com/watch?v=mm_sN-Elplg&t=8895s)
 
 [Mokkup.ai](https://app.mokkup.ai/)
 
