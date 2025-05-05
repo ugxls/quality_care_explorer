@@ -85,6 +85,7 @@ A structured database environment was created to store the finalized data tables
 
 ### Mockups Creation using Mokkup AI 
 To guide report development, mockups were designed using Mokkup AI. These prototypes served as blueprints for visual layout and helped plan an intuitive user interface. Two separate mockups were crafted—one for Home Health Care Agencies and another for IRFs—to reflect the unique metrics of each provider type.
+
 ![.](assets/images/QCE_Mockups.png)
 
 ### PowerBI 
@@ -101,6 +102,7 @@ RANKX(
 ```
 ## Results
 The resulting Power BI reports offer a comprehensive view of CMS-certified providers nationwide. Users can filter by state, explore provider-specific performance, and sort based on selected metrics. The ranking system provides actionable insights: healthcare consumers can locate top-rated facilities near them, while providers can assess internal performance and benchmark against peers. The tool supports both operational transparency and quality-driven improvement.
+
 ![.](assets/images/QCE_Reports.png)
 
 [View and Explore the Quality Care Explorer](https://app.powerbi.com/view?r=eyJrIjoiOTgwOTI5NTYtOTFjYy00MTM1LWE5OWUtYTlhM2E5Y2JhODRiIiwidCI6ImJjNDg4ZDAzLTUwNGYtNGZjMy1iOTFmLTM0YjJmNjc0ZWQyZiIsImMiOjN9)
@@ -110,7 +112,9 @@ The Quality Care Explorer delivers a practical, data-driven resource for evaluat
 
 ## References
 [CMS.gov Provider Catalog](https://data.cms.gov/provider-data/)
+
 [Stephen | Data - Excel to Power BI Portfolio Project | Full End-to-End Data Project](https://www.youtube.com/watch?v=mm_sN-Elplg&t=8895s)
+
 [Mokkup.ai](https://app.mokkup.ai/)
 
 
