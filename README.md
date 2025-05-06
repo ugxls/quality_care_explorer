@@ -10,10 +10,10 @@
 - [Methodology](#Methodology)
   - [Flowchart](#Flowchart)
   - [Python](#Python)
-  - [Excel](#Excel)
+  - [Microsoft Excel](#MicrosoftExcel)
   - [Microsoft SQL Server](#MicrosoftSQLServer)
   - [Mockups Creation using Mokkup AI](#MockupsCreationusingMokkupAI)
-  - [PowerBI](#PowerBI)
+  - [Microsoft Power BI](#MicrosoftPowerBI)
 - [Results](#Results)
 - [Conclusion](#Conclusion)
 - [References](#References)
@@ -77,7 +77,7 @@ else:
     print(f'Error: {response1.status_code} - {response1.text}')
 ```
 
-### Excel 
+### Microsoft Excel 
 Cleaned datasets were exported to Excel for additional data wrangling, such as duplicate removal and quality checks. This step facilitated easier data inspection and allowed for minor formatting adjustments before database loading.
 
 ### Microsoft SQL Server
@@ -88,7 +88,7 @@ To guide report development, mockups were designed using Mokkup AI. These protot
 
 ![.](assets/images/QCE_Mockups.png)
 
-### PowerBI 
+### Microsoft Power BI 
 The final interactive dashboards were developed using Power BI. Two report pages were created, each highlighting performance metrics for one provider type. Slicers, dynamic rankings, and sort-direction toggles (ascending/descending arrow icons) were implemented to enhance user experience. A custom ranking logic was embedded using DAX. Below is a sample ranking expression:
 ```powerbi
 Rank_IRF = 
