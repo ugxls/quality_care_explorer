@@ -24,9 +24,9 @@ This end-to-end healthcare analytics project utilizes publicly available data fr
 ## Introduction/Background
 ### Centers for Medicare & Medicaid Services (CMS)
 CMS is a federal agency within the Department of Health and Human Services responsible for administering Medicare, Medicaid, the Children's Health Insurance Program (CHIP), and the Health Insurance Marketplace. It also oversees data collection and reporting of healthcare provider quality metrics.
-### Home Health Care Agencies (HHCA)
+### Home Health Care Agencies (HHCAs)
 Home Health Agencies deliver a range of medical and non-medical services to patients in their homes. Their goal is to support recovery, manage chronic conditions, and promote patient independence. Common services include skilled nursing, physical and occupational therapy, speech-language services, and assistance with daily living tasks.
-### Inpatient Rehabilitation Facilities (IRF)
+### Inpatient Rehabilitation Facilities (IRFs)
 IRFs are specialized hospitals or hospital units that offer intensive rehabilitation services for individuals recovering from serious medical events such as strokes, surgeries, or traumatic injuries. These facilities aim to help patients regain function and reintegrate into daily life through structured, supervised programs.
 
 ## Objective 
