@@ -108,7 +108,7 @@ The resulting Power BI reports offer a comprehensive view of CMS-certified provi
 [View and Explore the Quality Care Explorer](https://app.powerbi.com/view?r=eyJrIjoiNmI4YzcxYmYtOGU4Ni00Yjk4LTg2NzAtZTRlNmY0NWIzYzllIiwidCI6ImJjNDg4ZDAzLTUwNGYtNGZjMy1iOTFmLTM0YjJmNjc0ZWQyZiIsImMiOjN9)
 
 ## Conclusion
-The Quality Care Explorer delivers a practical, data-driven resource for evaluating healthcare providers in the U.S. By integrating open CMS data with modern analytics tools, the project fosters informed decision-making among patients, families, and care providers. The interactive dashboards not only visualize critical quality measures but also empower stakeholders to interpret and act upon the data in meaningful ways.
+The Quality Care Explorer delivers a practical, data-driven resource for evaluating healthcare providers in the U.S. By integrating open CMS data with modern analytics tools and applying a full ETL (Extract, Transform, Load) process, the project fosters informed decision-making among patients, families, and care providers. The interactive dashboards not only visualize critical quality measures but also empower stakeholders to interpret and act upon the data in meaningful ways.
 
 ## References
 [CMS.gov Provider Catalog](https://data.cms.gov/provider-data/)
