@@ -29,16 +29,16 @@ Home Health Agencies deliver a range of medical and non-medical services to pati
 ### Inpatient Rehabilitation Facilities (IRFs)
 IRFs are specialized hospitals or hospital units that offer intensive rehabilitation services for individuals recovering from serious medical events such as strokes, surgeries, or traumatic injuries. These facilities aim to help patients regain function and reintegrate into daily life through structured, supervised programs.
 
-## Objective 
+## Objective
 The project seeks to create an interactive data-driven tool that enables users to evaluate and rank healthcare providers based on CMS quality metrics. By integrating various technologies and implementing user-centric design elements, the solution empowers both consumers and providers to make informed decisions, benchmark performance, and highlight areas for improvement.
 
-## Methodology 
+## Methodology
 A multi-step process was employed to collect, clean, store, and visualize the data. Each stage is outlined below:
 
-### Flowchart 
+### Flowchart
 ![.](assets/images/QCE_Flowchart.png)
 
-### Python 
+### Python
 Python served as the primary tool for data retrieval, exploratory analysis, and initial data transformation. Data was sourced directly from the CMS API, where quality measure codes were extracted, reshaped using pivot functions, and renamed for clarity. The snippet below illustrates the API request process:
 ```python
 import requests
@@ -77,18 +77,18 @@ else:
     print(f'Error: {response1.status_code} - {response1.text}')
 ```
 
-### Microsoft Excel 
+### Microsoft Excel
 Cleaned datasets were exported to Excel for additional data wrangling, such as duplicate removal and quality checks. This step facilitated easier data inspection and allowed for minor formatting adjustments before database loading.
 
 ### Microsoft SQL Server
 A structured database environment was created to store the finalized data tables. This step ensured seamless data refresh and scalability of the reporting solution.
 
-### Mockups Creation using Mokkup AI 
+### Mockups Creation using Mokkup AI
 To guide report development, mockups were designed using Mokkup AI. These prototypes served as blueprints for visual layout and helped plan an intuitive user interface. Two separate mockups were crafted—one for Home Health Care Agencies and another for IRFs—to reflect the unique metrics of each provider type.
 
 ![.](assets/images/QCE_Mockups.png)
 
-### Microsoft Power BI 
+### Microsoft Power BI
 The final interactive dashboards were developed using Power BI. Two report pages were created, each highlighting performance metrics for one provider type. Slicers, dynamic rankings, and sort-direction toggles (ascending/descending arrow icons) were implemented to enhance user experience. A custom ranking logic was embedded using DAX. Below is a sample ranking expression:
 ```powerbi
 Rank_IRF = 
