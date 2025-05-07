@@ -2,21 +2,21 @@
 # An End-To-End Healthcare Analytics Project
 ![.](assets/images/QCE3.png)
 
-# Table of Contents 
+# Table of Contents
 
-- [Abstract](#Abstract)
+- [Abstract](#abstract)
 - [Introduction/Background](#introductionbackground)
-- [Objective](#Objective)
+- [Objective](#objective)
 - [Methodology](#Methodology)
-  - [Flowchart](#Flowchart)
-  - [Python](#Python)
+  - [Flowchart](#flowchart)
+  - [Python](#python)
   - [Microsoft Excel](#microsoft-excel)
   - [Microsoft SQL Server](#microsoft-sql-server)
   - [Mockups Creation using Mokkup AI](#mockups-creation-using-mokkup-ai)
   - [Microsoft Power BI](#microsoft-power-bi)
-- [Results](#Results)
-- [Conclusion](#Conclusion)
-- [References](#References)
+- [Results](#results)
+- [Conclusion](#conclusion)
+- [References](#references)
 
 ## Abstract
 This end-to-end healthcare analytics project utilizes publicly available data from the Centers for Medicare & Medicaid Services (CMS) to deliver a performance insights platform focused on Home Health Care Agencies and Inpatient Rehabilitation Facilities across the United States. Leveraging technologies such as Python, Excel, Microsoft SQL Server, and Power BI, the project extracts, transforms, and visualizes healthcare quality measures to help users identify top-rated facilities based on criteria most important to them. The outcome is a dual-dashboard solution that supports transparency, comparison, and improved decision-making in healthcare services.
