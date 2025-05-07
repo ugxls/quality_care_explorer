@@ -7,7 +7,7 @@
 - [Abstract](#abstract)
 - [Introduction/Background](#introductionbackground)
 - [Objective](#objective)
-- [Methodology](#Methodology)
+- [Methodology](#methodology)
   - [Flowchart](#flowchart)
   - [Python](#python)
   - [Microsoft Excel](#microsoft-excel)
