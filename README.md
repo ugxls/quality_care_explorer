@@ -4,7 +4,7 @@
 
 # Table of Contents
 
-- [Abstract](#abstract)
+- [Executive Summary](#executive-summary)
 - [Introduction/Background](#introductionbackground)
 - [Objective](#objective)
 - [Methodology](#methodology)
@@ -18,7 +18,7 @@
 - [Conclusion](#conclusion)
 - [References](#references)
 
-## Abstract
+## Executive Summary
 This end-to-end healthcare analytics project utilizes publicly available data from the Centers for Medicare & Medicaid Services (CMS) to deliver a performance insights platform focused on Home Health Care Agencies and Inpatient Rehabilitation Facilities across the United States. Leveraging technologies such as Python, Excel, Microsoft SQL Server, and Power BI, the project extracts, transforms, and visualizes healthcare quality measures to help users identify top-rated facilities based on criteria most important to them. The outcome is a dual-dashboard solution that supports transparency, comparison, and improved decision-making in healthcare services.
 
 ## Introduction/Background
