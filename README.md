@@ -1,4 +1,3 @@
-# Quality Care Explorer
 ![.](assets/images/QCE3.png)
 
 # Table of Contents
