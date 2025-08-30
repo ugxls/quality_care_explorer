@@ -82,7 +82,7 @@ Cleaned datasets were exported to Excel for additional data wrangling, such as d
 A structured database environment was created to store the finalized data tables. This step ensured seamless data refresh and scalability of the reporting solution.
 
 ### Mockups Creation using Mokkup AI
-To guide report development, mockups were designed using Mokkup AI. These prototypes served as blueprints for visual layout and helped plan an intuitive user interface. Two separate mockups were crafted—one for Home Health Care Agencies and another for IRFs—to reflect the unique metrics of each provider type.
+To guide report development, mockups were designed using Mokkup AI. These prototypes served as blueprints for visual layout and helped plan an intuitive user interface. Two separate mockups were crafted: one for HHCAs and another for IRFs, to reflect the unique metrics of each provider type.
 
 ![.](assets/images/QCE_Mockups.png)
 
